@@ -22,6 +22,7 @@ gem 'minitest-reporters', group: :test
 gem 'guard', '~> 2.16', '>= 2.16.1'
 gem 'guard-minitest', '~> 2.4', '>= 2.4.6'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+gem 'rails-controller-testing'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
